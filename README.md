@@ -18,7 +18,7 @@
 
 ### 1 - What's a Program?
 
-All programs are just files on your computer filled with text. That text has a special syntax we call code. The programming language you're using defines the syntax of the code you are allowed to write. Programs are converted to machine code so that the computer can understand it. 
+All programs are just files on your computer filled with text. That text has a special syntax we call code. The programming language you're using defines the syntax of the code you are allowed to write. Programs are converted to machine code so that the computer can understand it. If you fork and clone this repo, you'll have access to a simple program called `a_ruby_program.rb` in the `lib` directory.
 
 ### 2 - Interpreted vs Compiled
 
